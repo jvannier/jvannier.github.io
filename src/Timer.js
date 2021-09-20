@@ -70,7 +70,7 @@ export default class Timer extends React.Component {
         </label>
         <button onClick={this.timer}>Start</button>
 
-        <h1 id="timer">5:00</h1>
+        <h1 id="timer">10:00</h1>
       </div>
     );
   }
